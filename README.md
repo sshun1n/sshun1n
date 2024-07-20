@@ -5,6 +5,7 @@
 
 ## My fav repositories:
 
+ - [Perpetual motion machine](https://i8.ae/CpIme)
  - [ClienServer console app](https://github.com/sshun1n/clientserver-cpp)
  - [MyString - in an attempt to repeat the original](https://github.com/sshun1n/mystring-cpp)
  - [UniversityHomeworks - ofc, I`m still studying](github.com/sshun1n/UniversityHomeworks)
